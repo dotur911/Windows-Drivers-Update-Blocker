@@ -31,11 +31,14 @@ Windows-Drivers-Update-Blocker allows you to keep control over which device driv
 
 1. Run the application as Administrator.
 2. Click **Scan Devices**.
+
+   > Note: The app may appear to pause or temporarily freeze during scanning. This is normal—please allow a short moment while it reads system devices.
+
 3. Optionally filter devices by type.
 4. Select one or more devices from the list.
 5. Click **Block Selected** to prevent future Windows Update driver installations.
 6. Use **Unblock Selected** to remove restrictions for selected devices.
-7. Use **Restore All** to return all settings to their default state.
+7. Use **Restore All** to return all settings to default state.
 
 ## Compatibility
 
